@@ -1,4 +1,4 @@
-# Linear-Regression- :chart_with_upwards_trend:
+# Linear-Regression- 
 The most fundamental Linear Regression Repository out there! 
 
 # Built with 
