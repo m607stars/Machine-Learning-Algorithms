@@ -1,5 +1,5 @@
 # Linear-Regression- 
-The most fundamental Linear Regression Repository out there! 
+The most fundamental Linear Regression Repository out there! Implemented Linear regression from scratch along with explanation for each step. Also, in the end there is comparison with the linear regression funcion available in the library with the model built from scratch.
 
 # Built with 
 * Numpy
