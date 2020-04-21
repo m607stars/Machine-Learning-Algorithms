@@ -5,6 +5,7 @@ The most fundamental Linear Regression Repository out there! Implemented Linear 
 * Numpy
 * Matplotlib
 * Pandas 
+* skLearn
 
 # Acknowledgements
 Dataset: https://www.kaggle.com/andonians/random-linear-regression
