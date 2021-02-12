@@ -16,6 +16,9 @@ Here, I have tried to make a SVM classifier, using only linear kernel for simpli
 ### 5. Decision Trees 
 Here, I have worked with another famous, red wine dataset and tried to classify the wine as per its quality with the help of decision trees. The wine quality is decided as True or False on the basis of 4 most relative parameters according to the analysis. 
 
+### 6. K-means clustering
+The first five were supervised machine learning algorithms, meaning that the data had labels attached with them. K-means clusering is an unsupervised algorithm that helps to form clusters of data-points cassifying them into different classes. This algorithm is trained on a random dataset as it is easy to visualize it. Since this is an unsupervised learning algorithm, we can't get the accuracy. But we can visualize the data points and the clusters which help us get an intuition of how well the algorithm works.
+
 
 ## Libraries used 
 * <a href="https://scikit-learn.org/stable/">skLearn</a>
