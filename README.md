@@ -1,7 +1,7 @@
 # Machine Learning Algorithms
-This repository contains some of the very famous Machine Learning algorithms built from scratch, i.e. without using the sklearn library, or others like Pytorch, Tensorflow, etc. Each algorithm has been implemented from scratch along with explanation for each and every step. Also, in the end there is comparison by using libraries. Sometimes, the results are not so good as it has not been optimized, but the main motive was the implementation. The algorithms have been explained in brief too in the ipynb file. 
+This repository contains some of the very famous Machine Learning algorithms built from scratch, i.e. without using the sklearn library, or others like Pytorch, Tensorflow, etc. Each algorithm has been implemented from scratch along with explanation for each and every step. Also, in the end there is comparison by using libraries. Sometimes, the results are not so good as it has not been optimized, but the main motive was the implementation. The algorithms have been explained in brief in the ipynb file. 
 
-## 1.Linear Regression 
+## 1. Linear Regression 
 Linear regression has been performed on the height-weight dataset. It is a very small dataset containing only 15 data points. The trained ML model then shows us the expected height for a given weight or can be made to do the reverse operation too. 
 
 ## 2. Logistic Regression
@@ -13,21 +13,23 @@ Here, I have tried to make a SVM classifier, using only linear kernel for simpli
 ## 4. Decision Trees 
 Here, I have worked with another famous, red wine dataset and tried to classify the wine as per its quality with the help of decision trees. The wine quality is decided as True or False on the basis of 4 most relative parameters according to the analysis. 
 
-# Built with 
 
+# Built with 
 * <a href="https://scikit-learn.org/stable/">skLearn</a>
 * <a href="https://pandas.pydata.org/" >Pandas</a>
 * <a href="https://numpy.org/" >Numpy</a>
 * <a href="https://matplotlib.org/" >Matplotlib</a>
 * <a href="http://cvxopt.org/" >Cvxopt</a>
 
+
 # Acknowledgements
-* <a href="https://www.kaggle.com/andonians/random-linear-regression">Dataset</a>
-* <a href="https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4">Linear Regression Algorith Explanation</a>
+* <a href="https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Andrew NG ML Video lectures</a>
+* <a href="https://www.kaggle.com/andonians/random-linear-regression">Height-Weight Dataset</a>
+* <a href="https://www.kaggle.com/uciml/iris">Iris Data Set</a>
 * <a href="https://medium.com/python-in-plain-english/introducing-python-package-cvxopt-implementing-svm-from-scratch-dc40dda1da1f"> Medium blog for SVMs using cvxopt</a>
 * <a href="https://medium.com/@smlra_kjsce/supporting-svms-support-vector-machines-bf5bfba88a0b">SMLRA Blog - SVM Maths</a>
 * <a href="https://medium.com/@smlra_kjsce/vectorized-view-of-svms-6a85dae8ca72">SMLRA Blog - SVM Intuitions</a>
 * <a href="https://www.youtube.com/watch?v=7VeUPuFGJHk"> Youtube lecture for decision trees</a>
 * <a href="https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009">Red wine dataset</a>
 * <a href="https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/">Decision Trees blog for implementation</a>
-* <a href="">Decision trees blog</a>
+* <a href="https://medium.com/@smlra_kjsce/understanding-decision-trees-8a3a78494836">SMLRA blog - Decision trees</a>
